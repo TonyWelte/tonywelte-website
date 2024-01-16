@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tonywelte-website/static/css/main.54e640ec.css",
+    "main.js": "/tonywelte-website/static/js/main.bae270d7.js",
+    "static/js/479.4c7cc97f.chunk.js": "/tonywelte-website/static/js/479.4c7cc97f.chunk.js",
+    "index.html": "/tonywelte-website/index.html",
+    "main.54e640ec.css.map": "/tonywelte-website/static/css/main.54e640ec.css.map",
+    "main.bae270d7.js.map": "/tonywelte-website/static/js/main.bae270d7.js.map",
+    "479.4c7cc97f.chunk.js.map": "/tonywelte-website/static/js/479.4c7cc97f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e640ec.css",
+    "static/js/main.bae270d7.js"
+  ]
+}
